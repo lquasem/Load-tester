@@ -14,7 +14,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = 'assault'
 DESCRIPTION = 'A python based web testing tool'
-URL = https://github.com/lquasem/Load-tester.git
+URL = 'https://github.com/lquasem/Load-tester.git'
 EMAIL = 'lquasem1@gmail.com'
 AUTHOR = 'Loba Quasem'
 REQUIRES_PYTHON = '>=3.7.0'
